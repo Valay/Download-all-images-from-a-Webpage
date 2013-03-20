@@ -73,7 +73,7 @@ Output looks like this:
 
 Image URL,Local path,Width,Height,Red,Green,Blue 
 
-http://l.yimg.com/cv/ae/us/audience/121017/300x250lweyw4b9v.jpg,/home/valay/Dropbox/Eharmony/Images_2013Mar15_062230_174/300x250lweyw4b9v.jpg,300,250,0.327713,0.329234,0.343053
+http://l.yimg.com/cv/ae/us/audience/121017/300x250lweyw4b9v.jpg,/home/valay/Dropbox/Images_2013Mar15_062230_174/300x250lweyw4b9v.jpg,300,250,0.327713,0.329234,0.343053
 
 **********************************************************************/
 
